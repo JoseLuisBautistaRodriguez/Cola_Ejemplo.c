@@ -115,6 +115,5 @@ int main()
 																				se realizo la impresion de los datos, si ValorDePaso == 1, la impresion 
 																				se realizo con exito.
 																			*/
-
 	return 0 ;
 }
